@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Whether.iml" filepath="$PROJECT_DIR$/.idea/modules/Whether.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whether.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whether.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whether.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whether.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whether.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whether.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Whether.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Whether.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Whether.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Whether.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Whether.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Whether.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Whether.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Whether.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/Whether.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/Whether.data.unitTest.iml" />
+    </modules>
+  </component>
+</project>
